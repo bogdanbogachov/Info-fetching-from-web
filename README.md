@@ -8,4 +8,4 @@ Structure:
 
 To run the app, launch Scrape_for_Kaz.py file. Also, make sure chromedriver is in the same folder as all .py files.
 
-Tools used: beautifulsoup, selenium, tkinter
+Tools used: beautifulsoup, selenium, tkinter.
